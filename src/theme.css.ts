@@ -47,7 +47,7 @@ const fontWeights = {
 
 const fonts = {
   text: '"DM Sans", sans-serif',
-  heading: '"Caveat", bold',
+  heading: "Caveat",
   mono: "DM Mono, Menlo, monospace",
 }
 
