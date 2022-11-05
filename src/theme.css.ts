@@ -47,7 +47,7 @@ const fontWeights = {
 
 const fonts = {
   text: '"DM Sans", sans-serif',
-  heading: '"Ariel", sans-serif',
+  heading: '"DM Ariel", sans-serif',
   mono: "DM Mono, Menlo, monospace",
 }
 
